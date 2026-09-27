@@ -1,0 +1,4 @@
+interface:
+  display_name: "MHAgent Workflow"
+  short_description: "Run the MHAgent-style research pipeline in Codex"
+  default_prompt: "Use $mhagent-workflow to inspect this workspace and run the applicable research or mathematical-modeling stages."
